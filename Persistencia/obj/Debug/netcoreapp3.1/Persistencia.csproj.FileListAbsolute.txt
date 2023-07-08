@@ -1,0 +1,16 @@
+C:\Curso ASP.NET CORE en vscode\ProyectoCore\Persistencia\bin\Debug\netcoreapp3.1\Persistencia.deps.json
+C:\Curso ASP.NET CORE en vscode\ProyectoCore\Persistencia\bin\Debug\netcoreapp3.1\Persistencia.runtimeconfig.json
+C:\Curso ASP.NET CORE en vscode\ProyectoCore\Persistencia\bin\Debug\netcoreapp3.1\Persistencia.runtimeconfig.dev.json
+C:\Curso ASP.NET CORE en vscode\ProyectoCore\Persistencia\bin\Debug\netcoreapp3.1\Persistencia.dll
+C:\Curso ASP.NET CORE en vscode\ProyectoCore\Persistencia\bin\Debug\netcoreapp3.1\Persistencia.pdb
+C:\Curso ASP.NET CORE en vscode\ProyectoCore\Persistencia\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Curso ASP.NET CORE en vscode\ProyectoCore\Persistencia\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Curso ASP.NET CORE en vscode\ProyectoCore\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.csproj.AssemblyReference.cache
+C:\Curso ASP.NET CORE en vscode\ProyectoCore\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso ASP.NET CORE en vscode\ProyectoCore\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.AssemblyInfoInputs.cache
+C:\Curso ASP.NET CORE en vscode\ProyectoCore\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.AssemblyInfo.cs
+C:\Curso ASP.NET CORE en vscode\ProyectoCore\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.csproj.CoreCompileInputs.cache
+C:\Curso ASP.NET CORE en vscode\ProyectoCore\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.csproj.CopyComplete
+C:\Curso ASP.NET CORE en vscode\ProyectoCore\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.dll
+C:\Curso ASP.NET CORE en vscode\ProyectoCore\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.pdb
+C:\Curso ASP.NET CORE en vscode\ProyectoCore\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.genruntimeconfig.cache

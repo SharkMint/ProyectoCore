@@ -1,0 +1,10 @@
+C:\Curso ASP.NET CORE en vscode\ProyectoCore\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+C:\Curso ASP.NET CORE en vscode\ProyectoCore\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Curso ASP.NET CORE en vscode\ProyectoCore\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Curso ASP.NET CORE en vscode\ProyectoCore\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+C:\Curso ASP.NET CORE en vscode\ProyectoCore\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso ASP.NET CORE en vscode\ProyectoCore\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Curso ASP.NET CORE en vscode\ProyectoCore\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Curso ASP.NET CORE en vscode\ProyectoCore\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Curso ASP.NET CORE en vscode\ProyectoCore\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\Curso ASP.NET CORE en vscode\ProyectoCore\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
