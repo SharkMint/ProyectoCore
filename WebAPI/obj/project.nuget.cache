@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "TNmZ2I3i+sZcrhDbMm+U865K8eoPFespVpFAe2QkJO1SnvyV56hZhqbHxmXc03YuVHzrZtRb+cmyjMZyOePOPA==",
+  "dgSpecHash": "NUOYPQou7dKic360y6RadVOtxcV84WGSoY2Vgo6++S7WZRc8bsJATYjijhjq4oVJBjhX/2Q4UFLDyEaH0DgDuw==",
   "success": true,
   "projectFilePath": "C:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
@@ -19,11 +19,12 @@
     "C:\\Users\\Lou Jaquez\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\3.1.1\\microsoft.aspnetcore.identity.entityframeworkcore.3.1.1.nupkg.sha512",
     "C:\\Users\\Lou Jaquez\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\Lou Jaquez\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
-    "C:\\Users\\Lou Jaquez\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Lou Jaquez\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Lou Jaquez\\.nuget\\packages\\microsoft.data.sqlclient\\1.0.19269.1\\microsoft.data.sqlclient.1.0.19269.1.nupkg.sha512",
     "C:\\Users\\Lou Jaquez\\.nuget\\packages\\microsoft.entityframeworkcore\\3.1.1\\microsoft.entityframeworkcore.3.1.1.nupkg.sha512",
     "C:\\Users\\Lou Jaquez\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\3.1.1\\microsoft.entityframeworkcore.abstractions.3.1.1.nupkg.sha512",
     "C:\\Users\\Lou Jaquez\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\3.1.1\\microsoft.entityframeworkcore.analyzers.3.1.1.nupkg.sha512",
+    "C:\\Users\\Lou Jaquez\\.nuget\\packages\\microsoft.entityframeworkcore.design\\3.1.1\\microsoft.entityframeworkcore.design.3.1.1.nupkg.sha512",
     "C:\\Users\\Lou Jaquez\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\3.1.1\\microsoft.entityframeworkcore.relational.3.1.1.nupkg.sha512",
     "C:\\Users\\Lou Jaquez\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\3.1.1\\microsoft.entityframeworkcore.sqlserver.3.1.1.nupkg.sha512",
     "C:\\Users\\Lou Jaquez\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",

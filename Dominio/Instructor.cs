@@ -7,7 +7,7 @@ namespace Dominio
 {
     public class Instructor
     {
-        public int InstructorID { get; set; }
+        public Guid InstructorID { get; set; }
         public string Nombre { get; set; }
         public string Apellido { get; set; }
         public string Grado { get; set; }
