@@ -88,3 +88,5 @@ C:\Curso ASP.NET CORE en vscode\ProyectoCore\webAPI\obj\Debug\netcoreapp3.1\WebA
 C:\Curso ASP.NET CORE en vscode\ProyectoCore\webAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
 C:\Curso ASP.NET CORE en vscode\ProyectoCore\webAPI\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache
 C:\Curso ASP.NET CORE en vscode\ProyectoCore\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Curso ASP.NET CORE en vscode\ProyectoCore\WebAPI\bin\Debug\netcoreapp3.1\Seguridad.dll
+C:\Curso ASP.NET CORE en vscode\ProyectoCore\WebAPI\bin\Debug\netcoreapp3.1\Seguridad.pdb

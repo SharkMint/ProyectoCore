@@ -1,0 +1,17 @@
+C:\Curso ASP.NET CORE en vscode\ProyectoCore\Seguridad\bin\Debug\netcoreapp3.1\Seguridad.deps.json
+C:\Curso ASP.NET CORE en vscode\ProyectoCore\Seguridad\bin\Debug\netcoreapp3.1\Seguridad.dll
+C:\Curso ASP.NET CORE en vscode\ProyectoCore\Seguridad\bin\Debug\netcoreapp3.1\Seguridad.pdb
+C:\Curso ASP.NET CORE en vscode\ProyectoCore\Seguridad\bin\Debug\netcoreapp3.1\Aplicacion.dll
+C:\Curso ASP.NET CORE en vscode\ProyectoCore\Seguridad\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Curso ASP.NET CORE en vscode\ProyectoCore\Seguridad\bin\Debug\netcoreapp3.1\Persistencia.dll
+C:\Curso ASP.NET CORE en vscode\ProyectoCore\Seguridad\bin\Debug\netcoreapp3.1\Aplicacion.pdb
+C:\Curso ASP.NET CORE en vscode\ProyectoCore\Seguridad\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Curso ASP.NET CORE en vscode\ProyectoCore\Seguridad\bin\Debug\netcoreapp3.1\Persistencia.pdb
+C:\Curso ASP.NET CORE en vscode\ProyectoCore\Seguridad\obj\Debug\netcoreapp3.1\Seguridad.csproj.AssemblyReference.cache
+C:\Curso ASP.NET CORE en vscode\ProyectoCore\Seguridad\obj\Debug\netcoreapp3.1\Seguridad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso ASP.NET CORE en vscode\ProyectoCore\Seguridad\obj\Debug\netcoreapp3.1\Seguridad.AssemblyInfoInputs.cache
+C:\Curso ASP.NET CORE en vscode\ProyectoCore\Seguridad\obj\Debug\netcoreapp3.1\Seguridad.AssemblyInfo.cs
+C:\Curso ASP.NET CORE en vscode\ProyectoCore\Seguridad\obj\Debug\netcoreapp3.1\Seguridad.csproj.CoreCompileInputs.cache
+C:\Curso ASP.NET CORE en vscode\ProyectoCore\Seguridad\obj\Debug\netcoreapp3.1\Seguridad.csproj.CopyComplete
+C:\Curso ASP.NET CORE en vscode\ProyectoCore\Seguridad\obj\Debug\netcoreapp3.1\Seguridad.dll
+C:\Curso ASP.NET CORE en vscode\ProyectoCore\Seguridad\obj\Debug\netcoreapp3.1\Seguridad.pdb
