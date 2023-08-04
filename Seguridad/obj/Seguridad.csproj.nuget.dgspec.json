@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Seguridad\\Seguridad.csproj": {}
+    "c:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Seguridad\\Seguridad.csproj": {}
   },
   "projects": {
-    "C:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Aplicacion\\Aplicacion.csproj": {
+    "c:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Aplicacion\\Aplicacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Aplicacion\\Aplicacion.csproj",
+        "projectUniqueName": "c:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Aplicacion\\Aplicacion.csproj",
         "projectName": "Aplicacion",
-        "projectPath": "C:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Aplicacion\\Aplicacion.csproj",
+        "projectPath": "c:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Aplicacion\\Aplicacion.csproj",
         "packagesPath": "C:\\Users\\Lou Jaquez\\.nuget\\packages\\",
-        "outputPath": "C:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Aplicacion\\obj\\",
+        "outputPath": "c:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Aplicacion\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lou Jaquez\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Dominio\\Dominio.csproj": {
-                "projectPath": "C:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Dominio\\Dominio.csproj"
+              "c:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Dominio\\Dominio.csproj": {
+                "projectPath": "c:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Dominio\\Dominio.csproj"
               },
-              "C:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Persistencia\\Persistencia.csproj": {
-                "projectPath": "C:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Persistencia\\Persistencia.csproj"
+              "c:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Persistencia\\Persistencia.csproj": {
+                "projectPath": "c:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Persistencia\\Persistencia.csproj"
               }
             }
           }
@@ -87,14 +87,14 @@
         }
       }
     },
-    "C:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Dominio\\Dominio.csproj": {
+    "c:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "c:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "C:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Dominio\\Dominio.csproj",
+        "projectPath": "c:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Dominio\\Dominio.csproj",
         "packagesPath": "C:\\Users\\Lou Jaquez\\.nuget\\packages\\",
-        "outputPath": "C:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Dominio\\obj\\",
+        "outputPath": "c:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lou Jaquez\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -151,14 +151,14 @@
         }
       }
     },
-    "C:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Persistencia\\Persistencia.csproj": {
+    "c:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Persistencia\\Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Persistencia\\Persistencia.csproj",
+        "projectUniqueName": "c:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Persistencia\\Persistencia.csproj",
         "projectName": "Persistencia",
-        "projectPath": "C:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Persistencia\\Persistencia.csproj",
+        "projectPath": "c:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Persistencia\\Persistencia.csproj",
         "packagesPath": "C:\\Users\\Lou Jaquez\\.nuget\\packages\\",
-        "outputPath": "C:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Persistencia\\obj\\",
+        "outputPath": "c:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lou Jaquez\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -175,8 +175,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Dominio\\Dominio.csproj": {
-                "projectPath": "C:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Dominio\\Dominio.csproj"
+              "c:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Dominio\\Dominio.csproj": {
+                "projectPath": "c:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Dominio\\Dominio.csproj"
               }
             }
           }
@@ -233,14 +233,14 @@
         }
       }
     },
-    "C:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Seguridad\\Seguridad.csproj": {
+    "c:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Seguridad\\Seguridad.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Seguridad\\Seguridad.csproj",
+        "projectUniqueName": "c:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Seguridad\\Seguridad.csproj",
         "projectName": "Seguridad",
-        "projectPath": "C:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Seguridad\\Seguridad.csproj",
+        "projectPath": "c:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Seguridad\\Seguridad.csproj",
         "packagesPath": "C:\\Users\\Lou Jaquez\\.nuget\\packages\\",
-        "outputPath": "C:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Seguridad\\obj\\",
+        "outputPath": "c:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Seguridad\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lou Jaquez\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -257,8 +257,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Aplicacion\\Aplicacion.csproj": {
-                "projectPath": "C:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Aplicacion\\Aplicacion.csproj"
+              "c:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Aplicacion\\Aplicacion.csproj": {
+                "projectPath": "c:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Aplicacion\\Aplicacion.csproj"
               }
             }
           }

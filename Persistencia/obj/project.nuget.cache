@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Z1LC+jILHBIMDRncyWnmxdEoqNqS2beHw+VX4JUkuyvUvv7uXNnFCoCb1oPsbVr2YOMnKAvxO7HHJ2yWrbWkmw==",
+  "dgSpecHash": "dkhZAkI+fVISsNcAcgweAiGTjWtqwJpG2g4+22L01P8Rxd3RyvFLHnL9wQaVVlzIRLyMHN5OZzrh3fgaTfMPTw==",
   "success": true,
-  "projectFilePath": "C:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Persistencia\\Persistencia.csproj",
+  "projectFilePath": "c:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Persistencia\\Persistencia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lou Jaquez\\.nuget\\packages\\dapper\\2.0.4\\dapper.2.0.4.nupkg.sha512",
     "C:\\Users\\Lou Jaquez\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.1\\microsoft.aspnetcore.cryptography.internal.3.1.1.nupkg.sha512",

@@ -7128,11 +7128,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Seguridad\\Seguridad.csproj",
+      "projectUniqueName": "c:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Seguridad\\Seguridad.csproj",
       "projectName": "Seguridad",
-      "projectPath": "C:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Seguridad\\Seguridad.csproj",
+      "projectPath": "c:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Seguridad\\Seguridad.csproj",
       "packagesPath": "C:\\Users\\Lou Jaquez\\.nuget\\packages\\",
-      "outputPath": "C:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Seguridad\\obj\\",
+      "outputPath": "c:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Seguridad\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lou Jaquez\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7149,8 +7149,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Aplicacion\\Aplicacion.csproj": {
-              "projectPath": "C:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Aplicacion\\Aplicacion.csproj"
+            "c:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Aplicacion\\Aplicacion.csproj": {
+              "projectPath": "c:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Aplicacion\\Aplicacion.csproj"
             }
           }
         }

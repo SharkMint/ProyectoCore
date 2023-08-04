@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xNNLC3MNEe2xU5r++9KJeTpzo8mAHAS8jVGn/NDeVyrKtaD1Ry+9QnBcZKd4mcjp2zdSpC587esCA4J7X8OX7g==",
+  "dgSpecHash": "X5YaNjfFyl9Lw8immLZ+mdtgPHFBIaQ6oHOcaQNVNzuTDafGGrmIQnte2FFZBQscn7a7Mq7sTW+2r+tzl0jyVg==",
   "success": true,
-  "projectFilePath": "C:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Dominio\\Dominio.csproj",
+  "projectFilePath": "c:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Dominio\\Dominio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lou Jaquez\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.1\\microsoft.aspnetcore.cryptography.internal.3.1.1.nupkg.sha512",
     "C:\\Users\\Lou Jaquez\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.1\\microsoft.aspnetcore.cryptography.keyderivation.3.1.1.nupkg.sha512",

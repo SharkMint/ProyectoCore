@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "g5+Rm7ehvdY0Kj4O7TSvgEjnjknHGaWfJodGNNHOjmdpTM3a0gj/SpxTLefZx363fOif7gJr43JOAYvhx9b7Lg==",
+  "dgSpecHash": "bw5aRkONXyIVVjwG7ydtuXnBY9Y7GAZxof0DPv8Z6GB5pJSOoriKpOT9XIG6Y+5yjM6VbHmqrJh5jEYMjhFibA==",
   "success": true,
-  "projectFilePath": "C:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\WebAPI\\WebAPI.csproj",
+  "projectFilePath": "c:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lou Jaquez\\.nuget\\packages\\automapper\\8.1.1\\automapper.8.1.1.nupkg.sha512",
     "C:\\Users\\Lou Jaquez\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\6.1.1\\automapper.extensions.microsoft.dependencyinjection.6.1.1.nupkg.sha512",

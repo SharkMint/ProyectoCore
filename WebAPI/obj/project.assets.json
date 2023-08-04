@@ -7536,11 +7536,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\WebAPI\\WebAPI.csproj",
+      "projectUniqueName": "c:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\WebAPI\\WebAPI.csproj",
       "projectName": "WebAPI",
-      "projectPath": "C:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\WebAPI\\WebAPI.csproj",
+      "projectPath": "c:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\WebAPI\\WebAPI.csproj",
       "packagesPath": "C:\\Users\\Lou Jaquez\\.nuget\\packages\\",
-      "outputPath": "C:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\WebAPI\\obj\\",
+      "outputPath": "c:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lou Jaquez\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7558,11 +7558,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Aplicacion\\Aplicacion.csproj": {
-              "projectPath": "C:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Aplicacion\\Aplicacion.csproj"
+            "c:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Aplicacion\\Aplicacion.csproj": {
+              "projectPath": "c:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Aplicacion\\Aplicacion.csproj"
             },
-            "C:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Seguridad\\Seguridad.csproj": {
-              "projectPath": "C:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Seguridad\\Seguridad.csproj"
+            "c:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Seguridad\\Seguridad.csproj": {
+              "projectPath": "c:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Seguridad\\Seguridad.csproj"
             }
           }
         }

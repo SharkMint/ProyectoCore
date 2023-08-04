@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k/C8EhPuKhSrfiTKZ9BYIjlMNCV265A80rgSsxyU5w3jwcPA1erxpDQKaAXkq8sqz5GM4gGtooteNHQVNQD/vg==",
+  "dgSpecHash": "BZNoYezvy4NOR+eM2NHMIKx3zB8tT6gNjw7F8qAeZTJiFEVSZ9gJs+ILZdJd4gF8C/LkXKfeEIqEmgzqZxtnLQ==",
   "success": true,
-  "projectFilePath": "C:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Seguridad\\Seguridad.csproj",
+  "projectFilePath": "c:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Seguridad\\Seguridad.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lou Jaquez\\.nuget\\packages\\automapper\\8.1.1\\automapper.8.1.1.nupkg.sha512",
     "C:\\Users\\Lou Jaquez\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\6.1.1\\automapper.extensions.microsoft.dependencyinjection.6.1.1.nupkg.sha512",
