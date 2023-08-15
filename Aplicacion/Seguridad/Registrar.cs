@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using Aplicacion.Contratos;
 using Aplicacion.ManejadorErrores;
 using Dominio;
+using FluentValidation;
 using MediatR;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
@@ -21,6 +22,18 @@ namespace Aplicacion.Seguridad
             public string Apellidos { get; set; }
             public string Email { get; set; }
             public string Password { get; set; }
+            public string Username { get; set; }
+        }
+
+        public class EjecutaValidador : AbstractValidator<Ejecuta>{
+
+            public EjecutaValidador(){
+                RuleFor( x => x.Nombre ).NotEmpty();
+                RuleFor(x => x.Apellidos).NotEmpty();
+                RuleFor(x => x.Email).NotEmpty();
+                RuleFor(x => x.Password).NotEmpty();
+                RuleFor(x => x.Username).NotEmpty();
+            } 
         }
 
         public class Manejador : IRequestHandler<Ejecuta, UsuarioData>
@@ -42,9 +55,15 @@ namespace Aplicacion.Seguridad
                     throw new ManejadorExcepciones(HttpStatusCode.BadRequest, new {mensaje = "Ya existe un usuario registrado con este email"});
                 }
 
+                var existeUserName = await _context.Users.Where(x => x.UserName == request.Username).AnyAsync();
+                if(!existeUserName){
+                    throw new ManejadorExcepciones(HttpStatusCode.BadRequest, new {mensaje = "Existe ya un usuario con ese username"});
+                }
+
                 var usuario = new Usuario {
                     NombreCompleto = request.Nombre + " " + request.Apellidos,
                     Email = request.Email,
+                    UserName = request.Username,
                 };
 
                 var resultado = await _userManager.CreateAsync(usuario, request.Password);
@@ -53,6 +72,7 @@ namespace Aplicacion.Seguridad
                         NombreCompleto = usuario.NombreCompleto,
                         Token = _jwtGenerador.CrearToken(usuario),
                         Username = usuario.UserName,
+                        Email = usuario.Email,
                     };
                 }
 

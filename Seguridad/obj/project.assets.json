@@ -7149,8 +7149,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "c:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Aplicacion\\Aplicacion.csproj": {
-              "projectPath": "c:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Aplicacion\\Aplicacion.csproj"
+            "C:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Aplicacion\\Aplicacion.csproj": {
+              "projectPath": "C:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Aplicacion\\Aplicacion.csproj"
             }
           }
         }

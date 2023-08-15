@@ -4,14 +4,14 @@
     "c:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Persistencia\\Persistencia.csproj": {}
   },
   "projects": {
-    "c:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Dominio\\Dominio.csproj": {
+    "C:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "C:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "c:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Dominio\\Dominio.csproj",
+        "projectPath": "C:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Dominio\\Dominio.csproj",
         "packagesPath": "C:\\Users\\Lou Jaquez\\.nuget\\packages\\",
-        "outputPath": "c:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Dominio\\obj\\",
+        "outputPath": "C:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lou Jaquez\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -92,8 +92,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "c:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Dominio\\Dominio.csproj": {
-                "projectPath": "c:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Dominio\\Dominio.csproj"
+              "C:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Dominio\\Dominio.csproj": {
+                "projectPath": "C:\\Curso ASP.NET CORE en vscode\\ProyectoCore\\Dominio\\Dominio.csproj"
               }
             }
           }
